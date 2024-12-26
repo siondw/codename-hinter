@@ -1,0 +1,4 @@
+venv
+wiki-news-300d-1M-subword.vec
+fasttext_model.kv.vectors.npy
+fasttext_model.kv
